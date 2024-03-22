@@ -1,0 +1,35 @@
+#grade {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#grade td,
+#grade th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#grade tr:nth-child(even) {
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+#grade tr {
+    background-color: #ddd;
+    text-align: center;
+}
+
+.map {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border-radius: 50%;
+}
+
+.tr_1 {
+    background-color: #f2f2f2 !important;
+    text-align: center !important;
+}
+.margin{
+    margin-top: 10px;
+}
